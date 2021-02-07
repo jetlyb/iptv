@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1高清
+rtp://239.3.1.129:8008
+#EXTINF:-1 ,CCTV-2高清
+rtp://239.3.1.60:8084
+#EXTINF:-1 ,CCTV-3
+rtp://239.3.1.240:8008
+#EXTINF:-1 ,CCTV-4高清
+rtp://239.3.1.105:8092
+#EXTINF:-1 ,CCTV-5
+rtp://239.3.1.244:8016
+#EXTINF:-1 ,CCTV5+
+rtp://239.3.1.130:8004
+#EXTINF:-1 ,CCTV-6
+rtp://239.3.1.245:8220
+#EXTINF:-1 ,CCTV-7高清
+rtp://239.3.1.61:8104
+#EXTINF:-1 ,CCTV-8高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
+#EXTINF:-1 ,CCTV-9高清
+rtp://239.3.1.62:8112
+#EXTINF:-1 ,CCTV-10高清
+rtp://239.3.1.63:8116
+#EXTINF:-1 ,CCTV-12高清
+rtp://239.3.1.64:8124
+#EXTINF:-1 ,CCTV-13
+rtp://239.3.1.13:8048
+#EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻[高清][非官方]
+http://yuniptvun100.chinayungu.cn:65530/live/cctv13/index.m3u8
+#EXTINF:-1 ,CCTV-14高清
+rtp://239.3.1.150:8064
+#EXTINF:-1 ,CCTV-17高清
+rtp://239.3.1.151:8144
+#EXTINF:-1 ,CCTV-4K蓝码
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
